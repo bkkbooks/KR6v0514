@@ -18,7 +18,7 @@ editions:
 - short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0514_000.yaml, hash: 'sha256:779b4aba19ba2100506aaefdb68105406e3799fed6269c7e6c4fa13251ae88ba'}
+  - {seq: 0, filename: KR6v0514_000.yaml, hash: 'sha256:8c95597a46ac832382cb73bcdca15d801b47972628e0f0d62978b1d6d53a2af8'}
   - {seq: 1, filename: KR6v0514_001.yaml, hash: 'sha256:397ed5daed3892a5b4f9cb80a7819923e0b16aba301d186f7e7e62e033b7876d'}
   - {seq: 2, filename: KR6v0514_002.yaml, hash: 'sha256:3471936be23114a1a16a2c5a562c3d513052c6fe18daf8e5831aa914bf99a7e0'}
   - {seq: 3, filename: KR6v0514_003.yaml, hash: 'sha256:008acc3b182ab2e42d872d1232e0fd0518e331bb9b28f589d343230646e5d925'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 7, filename: KR6v0514_007.yaml, hash: 'sha256:602d26498eadedd9c99f354e6e46da1ff17e8c95ae7723ed8081d599ec84330b'}
   - {seq: 8, filename: KR6v0514_008.yaml, hash: 'sha256:faca053d570292697e3e8599f8125b71a75d323624c6adef4b92a49b53cb3899'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0514_000.markers.yaml, hash: 'sha256:07b7ea6cdfa80cc4eeb0a0619488efe33d5d08fc6ae99c0e1f3158811fb1828c'}
+  - {seq: 0, role: markers, filename: assets/KR6v0514_000.markers.yaml, hash: 'sha256:b6d6e015ecdcb240bbf239dc0394703c0a1b5ac21670d0906f0385ebebb1183c'}
   - {seq: 1, role: markers, filename: assets/KR6v0514_001.markers.yaml, hash: 'sha256:742718a74d2c54d1b05b03d0e77d8ce8c8bf931be315625694a6218b92c5d4d5'}
   - {seq: 2, role: markers, filename: assets/KR6v0514_002.markers.yaml, hash: 'sha256:4462f1654600f373371b73808f6f323ff157e5eec9234eada6656cdcedaf8c15'}
   - {seq: 3, role: markers, filename: assets/KR6v0514_003.markers.yaml, hash: 'sha256:a9204aca334311ec8f3a5cf6fe388a4d9812e1b8283dbd15fe7f126c97d57409'}
@@ -42,7 +42,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0514_GA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 版本說明
@@ -52,7 +52,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0514_GA_000-mulu-2
     span:
-    - front
+    - body
     - 536
     - 536
   label: 卷首
@@ -62,7 +62,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0514_GA_000-mulu-3
     span:
-    - front
+    - body
     - 536
     - 536
   label: 李因培序
@@ -72,7 +72,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0514_GA_000-mulu-4
     span:
-    - front
+    - body
     - 1059
     - 1059
   label: 杭世駿序
@@ -82,7 +82,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0514_GA_000-mulu-5
     span:
-    - front
+    - body
     - 1543
     - 1543
   label: 實月序
@@ -92,7 +92,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0514_GA_000-mulu-6
     span:
-    - front
+    - body
     - 2227
     - 2227
   label: 寺圖
@@ -102,7 +102,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0514_GA_000-mulu-7
     span:
-    - front
+    - body
     - 2293
     - 2293
   label: 總目
@@ -5708,7 +5708,7 @@ table_of_contents:
   label: 題箬庵問禪師《普說》
   type: mulu
   level: 1
-hash: sha256:095ca687bb290f7f7aae68eb06e0a5483437ef5e3b867dbf717eb242948573e5
+hash: sha256:85b24172f34de8fffffb3aa9f2db54750c42df5e20a75842e283cae52fdbfb13
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
